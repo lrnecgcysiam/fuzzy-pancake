@@ -16,9 +16,6 @@ and share it with you over line.
 練習したいでから。このウェブページをGoogle翻訳できます。
 ラインで返事できます。
 
-
-[![IMG-2126.jpg](https://i.postimg.cc/fWdvFxbD/IMG-2126.jpg)](https://postimg.cc/py285586)
-
 --<cite>クリス</cite>
 
 

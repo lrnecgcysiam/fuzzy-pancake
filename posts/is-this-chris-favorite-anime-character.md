@@ -3,7 +3,10 @@ title: 俺の好きなアニメやつ？
 description: アニメや漫画やゲーム　大好き！
 date: 2022-12-07
 tags:
-
+    - Question
+    - Anime
+    - Game
+    - Japan
 thumb: '/img/cssforms_tn.png'
 layout: layouts/post.njk
 ---

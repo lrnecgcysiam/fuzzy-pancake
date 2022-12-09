@@ -2,7 +2,10 @@
 title: なぜはこのウェブページを使いますか
 description: Programming for fun
 date: 2022-12-07
-thumb: '/img/cssforms_tn.png'
+tags:
+    - Read 
+    - Me 
+    - First
 layout: layouts/post.njk
 ---
 

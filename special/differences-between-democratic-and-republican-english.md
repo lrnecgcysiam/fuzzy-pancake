@@ -4,8 +4,9 @@ description: Learning English can be fun
 date: 2022-12-09
 layout: layouts/post.njk
 ---
-
 [日本語を読みたいの？](/posts/differences-between-democratic-and-republican)
+<p></p>
+<img src="https://i.postimg.cc/rs4wj4QR/presidential-debate-2020.jpg" width=400 height=250>
 
 <p>
 Republicans and Democrats comparing and contrasting us political
@@ -30,6 +31,7 @@ tradition and believe in limited government voters that support these parties
 tend to have different priorities and ideals the Democratic party is popular 
 </p>
 
+<img src="https://i.postimg.cc/SsbRHJ80/IMG-3721.jpg" width=400 height=250>
 <p> 
 with voters who prioritize community and social responsibility and contrast 
 Republican voters tend to prioritize individual rights and the free market 
@@ -37,7 +39,7 @@ the party platforms have a different stance on gay marriage abortion and gun
 control do individual voters do have their own opinions on these personal 
 issues the two parties are also divided on the issues of immigration taxes 
 </p>
-
+<img src="https://i.postimg.cc/GmNHJMmm/IMG-3723.jpg"  width=400 height=250>
 <p>
 and environmental policies in some states there is strong support for one 
 of the parties over the other for example California and New York are largely 
@@ -55,3 +57,4 @@ Florida are known as swing States because boats can go both ways candidates
 </p>
 
 <h3>Who do you think will win the next presidential election?</h3>
+<img src="https://i.postimg.cc/hGdhC9Xb/IMG-3722.jpg" width=400 height=250>

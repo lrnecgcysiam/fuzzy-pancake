@@ -10,7 +10,8 @@ tags:
 ---
 
 [For English Click here](/posts/differences-between-democratic-and-republican-english)
-
+<p></p>
+<img src="https://i.postimg.cc/rs4wj4QR/presidential-debate-2020.jpg" width=400 height=250>
 <p>
 <span style="color: #6495ED;">共和党</span>と<span style="color:red">民主党</span>は私たちの政党を比較対照しています.
 米国には 2 つの主要な政党があります。民主党と共和党とも呼ばれます。 
@@ -26,7 +27,7 @@ tags:
 民主党はコミュニティと社会的責任を優先する有権者に人気があり、対照的に、
 共和党の有権者は個人の権利と自由市場を優先する傾向があります 
 </p>
-
+<img src="https://i.postimg.cc/SsbRHJ80/IMG-3721.jpg" width=400 height=250>
 <p>
 党のプラットフォームは同性愛者の結婚の中絶と銃規制に対して異なるスタンスを持っています 
 個人が行う 有権者は、これらの個人的な問題について独自の意見を持っています 2 つの政党は、
@@ -34,11 +35,14 @@ tags:
 カリフォルニア州とニューヨーク州では、一方の政党が他方よりも強力に支持されています 
 比較 アラバマ州とオクラホマ州は強力な共和党の州 いくつかの州 
 </p>
+<img src="https://i.postimg.cc/GmNHJMmm/IMG-3723.jpg"  width=400 height=250>
 
 <p>
 コネチカット州は何年にもわたって青票が投じられているため安全な州として知られていますが、
 フロリダのような他の州はスイング州として知られています。 
 フランクリン・ルーズベルトとジョン・F・ケネディが民主党員だった有名なアメリカの大統領を知っていますかバラク・
 オバマも民主党員でしたロナルド・レーガン・ジョージ・W・ブッシュとドナルド・
-トランプを含む共和党の有名な大統領は次の大統領選挙に勝つと思いますか.
+トランプを含む共和党の有名な
 </p>
+<h3>誰は次の大統領選挙に勝つと思いますか?</h3>
+<img src="https://i.postimg.cc/hGdhC9Xb/IMG-3722.jpg" width=400 height=250>
